@@ -40,6 +40,9 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamxz&show_icons=true&locale=en" alt="prathamxz" /></p>
 
+#### Thanks for visiting 👽
+![VisitorCount](https://profile-counter.glitch.me/prathamxz/count.svg)
+
 
 
 
