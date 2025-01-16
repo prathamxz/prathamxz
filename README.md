@@ -1,5 +1,5 @@
 [![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)](https://github.com/prathamxz)
-<h1 align="center">Hi 👋, I'm Prathamesh Zagade</h1>
+<h1 align="center">Hi 👋, I'm Prathamesh Zagade </h1>
 <h3 align="center">A Passionate Ai & Data Science Engineer</h3>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
@@ -7,7 +7,7 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamxz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamxz" /> </p>
 
 - 🎯 I’m currently working on: **AI and data science projects, focusing on machine learning, deep learning, and NLP.**
 
@@ -40,6 +40,9 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathamxz&show_icons=true&locale=en&layout=compact" alt="prathamxz" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prathamxz&show_icons=true&locale=en" alt="prathamxz" /></p>
+
+🎯 Thanks for visiting 🎯
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamxz" /> </p>
 
 
 
