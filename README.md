@@ -11,6 +11,7 @@
 
 - 🎯 I’m currently working on: **AI and data science projects, focusing on machine learning, deep learning, and NLP.**
 
+
 - 🌱 Currently learning: **Python, SQL, TensorFlow, and PyTorch through real-world datasets.**
 
 - 🤝 Looking to collaborate on: **Open-source AI and data visualization projects.**
