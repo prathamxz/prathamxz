@@ -11,7 +11,6 @@
 
 - 🎯 I’m currently working on: **AI and data science projects, focusing on machine learning, deep learning, and NLP.**
 
-
 - 🌱 Currently learning: **Python, SQL, TensorFlow, and PyTorch through real-world datasets.**
 
 - 🤝 Looking to collaborate on: **Open-source AI and data visualization projects.**
@@ -43,7 +42,6 @@
 
 🎯 Thanks for visiting 🎯
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prathamxz&label=Profile%20views&color=0e75b6&style=flat" alt="prathamxz" /> </p>
-
 
 
 
