@@ -36,12 +36,4 @@ Role: AI & Data Science Engineer
 📫 Reach me at:  
 **prathamzagade1811@gmail.com**
 
----
-
-<div align="center">
-
-## 🚀 Turning Data Into Intelligence
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
-
 </div>
